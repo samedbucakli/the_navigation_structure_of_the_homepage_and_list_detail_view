@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TaskControl 📋✨
 
 TaskControl, Flutter ile geliştirilmiş modern ve kullanıcı dostu bir görev yönetimi uygulamasıdır. Özelleştirilebilir renk ve ikonlarla listeler oluşturun, görevlerinizi düzenleyin ve ilerlemenizi anlık takip edin. Kaydırarak silme (swipe-to-delete) ve Geri Al (Undo) özellikleri sayesinde akıcı bir kullanıcı deneyimi (UX) sunar.
